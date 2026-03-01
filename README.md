@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Data Structures & Algorithms (C++)<br><br>Backend development using Java & Spring Boot<br><br>DBMS-based real-world projects<br><br>Full-stack web development projects<br><br>🤝 I’m looking to collaborate on<br><br>Backend-heavy projects (Spring Boot / REST APIs)<br><br>Open-source contributions<br><br>Scalable system design projects<br><br>🧠 I’m looking for help with<br><br>Advanced DSA problem-solving<br><br>System Design fundamentals<br><br>Writing production-level backend code<br><br>🌱 I’m currently learning<br><br>Data Structures & Algorithms (in-depth)<br><br>Java + Spring Boot (REST APIs, authentication, DB integration)<br><br>Database Management Systems (SQL, schema design, optimization)<br><br>System Design basics<br><br>💬 Ask me about<br><br>DSA preparation strategies<br><br>Backend fundamentals<br><br>DBMS concepts<br><br>Building structured learning roadmaps<br><br>⚡ Fun fact<br><br>I believe consistency > motivation.<br><br>I build while I learn.
+I am a backend-focused developer with a strong interest in building scalable and well-structured systems. I enjoy solving complex problems and continuously strengthening my foundation in Data Structures and Algorithms. My current focus is on developing robust backend applications using Java and Spring Boot, while also building full applications with the MERN stack. I am particularly interested in writing clean, maintainable, and production-ready code that aligns with real-world standards.
+
+Actively practicing Data Structures and Algorithms in C++
+
+Building backend systems using Java and Spring Boot
+
+Working on MERN stack projects
+
+Exploring database design, query optimization, and schema architecture
+
+Learning system design fundamentals and scalable architecture concepts
+
+I am open to collaborating on backend-heavy projects, REST API development, open-source contributions, and scalable system design initiatives. I believe in consistency over motivation and focus on building practical projects alongside continuous learning.
 
 
 # 💻 Tech Stack:
