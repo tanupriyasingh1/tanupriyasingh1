@@ -1,16 +1,4 @@
-I am a backend-focused developer with a strong interest in building scalable and well-structured systems. I enjoy solving complex problems and continuously strengthening my foundation in Data Structures and Algorithms. My current focus is on developing robust backend applications using Java and Spring Boot, while also building full applications with the MERN stack. I am particularly interested in writing clean, maintainable, and production-ready code that aligns with real-world standards.
-
-Actively practicing Data Structures and Algorithms in C++
-
-Building backend systems using Java and Spring Boot
-
-Working on MERN stack projects
-
-Exploring database design, query optimization, and schema architecture
-
-Learning system design fundamentals and scalable architecture concepts
-
-I am open to collaborating on backend-heavy projects, REST API development, open-source contributions, and scalable system design initiatives. I believe in consistency over motivation and focus on building practical projects alongside continuous learning.
+i like to code for fun
 
 
 # 💻 Tech Stack:
