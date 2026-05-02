@@ -1,12 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:03045e&height=180&text=Tanupriya%20Singh&fontSize=60&fontColor=caf0f8&fontAlignY=45&animation=twinkling&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Tanu%20Priya%20Singh&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-<p align="center">
-  <b>B.Tech Student | Python Developer | Full Stack Enthusiast</b>
-</p>
+I'm **Tanu Priya Singh**, a B.Tech student and Full Stack Developer  
 
-<p align="center">
-  💡 <i>"Turning complex logic into simple, elegant digital experiences."</i>
-</p>
+💡 *“Crafting logic and elegance in every line of code.”*
+
+---
+
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
 
 ---
 
@@ -14,19 +16,23 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tanupriya-singh-61266224b/">
-    <img src="https://img.shields.io/badge/LinkedIn-03045e?style=for-the-badge&logo=linkedin&logoColor=00b4d8" />
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
   <a href="https://github.com/tanupriyasingh1">
-    <img src="https://img.shields.io/badge/GitHub-03045e?style=for-the-badge&logo=github&logoColor=00b4d8" />
+    <img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB" />
   </a>
   <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-03045e?style=for-the-badge&logo=instagram&logoColor=00b4d8" />
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanupriyasingh1&color=00b4d8&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/tanupriyasingh1?label=Followers&color=03045e&style=flat" />
+  <a href="https://github.com/tanupriyasingh1">
+    <img src="https://komarev.com/ghpvc/?username=tanupriyasingh1&color=3a8296&label=Profile%20Views" />
+  </a>
+  <a href="https://github.com/tanupriyasingh1">
+    <img src="https://img.shields.io/github/followers/tanupriyasingh1?label=GitHub%20Followers&color=3a8296&style=flat" />
+  </a>
 </p>
 
 ---
@@ -36,21 +42,14 @@
 #### 💻 Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c&theme=light" />
   </a>
 </p>
 
-#### ⚙️ Frameworks & Databases
+#### ⚙️ Frameworks & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,sqlite,mysql,tailwind,bootstrap&theme=dark" />
-  </a>
-</p>
-
-#### 🛠️ Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=flask,sqlite,mysql,tailwind,bootstrap,git,github,vscode&theme=light" />
   </a>
 </p>
 
@@ -58,22 +57,24 @@
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanupriyasingh1&show_icons=true&theme=tokyonight&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&bg_color=03045e&border_color=00b4d8&hide_border=false" height="170em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanupriyasingh1&layout=compact&langs_count=8&theme=tokyonight&title_color=00b4d8&text_color=caf0f8&bg_color=03045e&border_color=00b4d8&hide_border=false" height="170em"/>
-</p>
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanupriyasingh1&theme=tokyonight&hide_border=false&background=03045e&currStreakLabel=00b4d8&ring=00b4d8&fire=00b4d8&sideLabels=caf0f8" height="170em"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=tanupriyasingh1&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://streak-stats.demolab.com?user=tanupriyasingh1&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+
+---
+
+### 🧩 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanupriyasingh1&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
 
 ---
 
 ## ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:03045e,100:00b4d8&border_color=00b4d8&text_color=caf0f8" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:03045e&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=caf0f8&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
