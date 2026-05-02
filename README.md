@@ -1,29 +1,79 @@
-i like to code for fun
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:03045e&height=180&text=Tanupriya%20Singh&fontSize=60&fontColor=caf0f8&fontAlignY=45&animation=twinkling&section=header" />
 
+<p align="center">
+  <b>B.Tech Student | Python Developer | Full Stack Enthusiast</b>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tanupriyasingh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tanupriyasingh1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanupriyasingh1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  💡 <i>"Turning complex logic into simple, elegant digital experiences."</i>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tanupriyasingh1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+### 📬 Connect with Me  
 
-<!--
-**tanupriyasingh1/tanupriyasingh1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanupriya-singh-61266224b/">
+    <img src="https://img.shields.io/badge/LinkedIn-03045e?style=for-the-badge&logo=linkedin&logoColor=00b4d8" />
+  </a>
+  <a href="https://github.com/tanupriyasingh1">
+    <img src="https://img.shields.io/badge/GitHub-03045e?style=for-the-badge&logo=github&logoColor=00b4d8" />
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-03045e?style=for-the-badge&logo=instagram&logoColor=00b4d8" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanupriyasingh1&color=00b4d8&label=Profile%20Views" />
+  <img src="https://img.shields.io/github/followers/tanupriyasingh1?label=Followers&color=03045e&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Skills
+
+#### 💻 Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c&theme=dark" />
+  </a>
+</p>
+
+#### ⚙️ Frameworks & Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,sqlite,mysql,tailwind,bootstrap&theme=dark" />
+  </a>
+</p>
+
+#### 🛠️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,linux&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanupriyasingh1&show_icons=true&theme=tokyonight&title_color=00b4d8&icon_color=00b4d8&text_color=caf0f8&bg_color=03045e&border_color=00b4d8&hide_border=false" height="170em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanupriyasingh1&layout=compact&langs_count=8&theme=tokyonight&title_color=00b4d8&text_color=caf0f8&bg_color=03045e&border_color=00b4d8&hide_border=false" height="170em"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tanupriyasingh1&theme=tokyonight&hide_border=false&background=03045e&currStreakLabel=00b4d8&ring=00b4d8&fire=00b4d8&sideLabels=caf0f8" height="170em"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:03045e,100:00b4d8&border_color=00b4d8&text_color=caf0f8" />
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:03045e&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=caf0f8&animation=twinkling" />
