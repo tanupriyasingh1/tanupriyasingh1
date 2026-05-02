@@ -42,14 +42,14 @@ I'm **Tanu Priya Singh**, a B.Tech student and Full Stack Developer
 #### 💻 Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,c&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,c&theme=light" />
   </a>
 </p>
 
 #### ⚙️ Frameworks & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,sqlite,mysql,tailwind,bootstrap,git,github,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=flask,react,sqlite,mysql,docker,linux,git,github,vscode&theme=light" />
   </a>
 </p>
 
