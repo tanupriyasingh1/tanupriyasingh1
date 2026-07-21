@@ -2,9 +2,7 @@
 
 # Hi, I'm Tanu 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E6E6E&center=true&vCenter=true&width=460&lines=B.Tech+Student+%7C+Aspiring+Full+Stack+%2F+DevOps+Engineer;Currently+Interning+at+Prodesk+IT" alt="Typing SVG" />
 
-</div>
 
 I like building things end to end — from clean, responsive frontends to understanding how they actually get deployed and kept running.
 
@@ -28,5 +26,5 @@ I like building things end to end — from clean, responsive frontends to unders
 ### 📫 Find me elsewhere
 
 - 📧 Email — tanu080405@gmail.com
-- 💼 LinkedIn — [in/tanu-priya-singh-4881692ba](https://linkedin.com/in/tanu-priya-singh-4881692ba)
-- 🎮 Discord — @meinhoontanu
+- 💼 LinkedIn — http://www.linkedin.com/in/tanupriyasingh1
+- 🎮 Discord — meinhoontanu
