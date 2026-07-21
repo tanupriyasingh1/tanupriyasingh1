@@ -1,80 +1,32 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Tanu%20Priya%20Singh&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
-
-I'm **Tanu Priya Singh**, a B.Tech student and Full Stack Developer  
-
-💡 *“Crafting logic and elegance in every line of code.”*
-
----
-
 <div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+
+# Hi, I'm Tanu 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E6E6E&center=true&vCenter=true&width=460&lines=B.Tech+Student+%7C+Aspiring+Full+Stack+%2F+DevOps+Engineer;Currently+Interning+at+Prodesk+IT" alt="Typing SVG" />
+
 </div>
 
----
-
-### 📬 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanupriya-singh-61266224b/">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
-  </a>
-  <a href="https://github.com/tanupriyasingh1">
-    <img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB" />
-  </a>
-  <a href="https://instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tanupriyasingh1">
-    <img src="https://komarev.com/ghpvc/?username=tanupriyasingh1&color=3a8296&label=Profile%20Views" />
-  </a>
-  <a href="https://github.com/tanupriyasingh1">
-    <img src="https://img.shields.io/github/followers/tanupriyasingh1?label=GitHub%20Followers&color=3a8296&style=flat" />
-  </a>
-</p>
+I like building things end to end — from clean, responsive frontends to understanding how they actually get deployed and kept running.
 
 ---
 
-### 🧠 Skills
+### 🚀 What I'm doing right now
 
-#### 💻 Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,cpp,c&theme=light" />
-  </a>
-</p>
-
-#### ⚙️ Frameworks & Technologies
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,react,sqlite,mysql,docker,linux,git,github,vscode&theme=light" />
-  </a>
-</p>
+- 💼 Interning at **Prodesk IT**, working on frontend web development sprints
+- ☁️ Learning **DevOps** — Docker, CI/CD, Kubernetes, and cloud fundamentals
+- 🧮 Practicing **DSA** consistently
+- 📌 Open to internship opportunities in **Software Development / DevOps / Cloud**
 
 ---
 
-### 📊 GitHub Statistics
+### 🛠️ Tech I work with
 
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanupriyasingh1&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
-<img src="https://streak-stats.demolab.com?user=tanupriyasingh1&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
+`HTML` `CSS` `JavaScript` `C++` `Python` `Git` `Docker` `Linux`
 
 ---
 
-### 🧩 Most Used Languages
+### 📫 Find me elsewhere
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanupriyasingh1&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
-
----
-
-## ✍️ Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
-</p>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+- 📧 Email — tanu080405@gmail.com
+- 💼 LinkedIn — [in/tanu-priya-singh-4881692ba](https://linkedin.com/in/tanu-priya-singh-4881692ba)
+- 🎮 Discord — @meinhoontanu
