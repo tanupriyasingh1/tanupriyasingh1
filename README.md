@@ -3,6 +3,7 @@
 # Hi, I'm Tanu 👋
 
 
+</div>
 
 I like building things end to end — from clean, responsive frontends to understanding how they actually get deployed and kept running.
 
@@ -10,10 +11,10 @@ I like building things end to end — from clean, responsive frontends to unders
 
 ### 🚀 What I'm doing right now
 
-💼 Interning at **Prodesk IT**, working on frontend web development sprints
-☁️ Learning **DevOps** — Docker, CI/CD, Kubernetes, and cloud fundamentals
-🧮 Practicing **DSA** consistently
-📌 Open to internship opportunities in **Software Development / DevOps / Cloud**
+- 💼 Interning at **Prodesk IT**, working on full stack projects
+- ☁️ Learning **DevOps** — Docker, CI/CD, Kubernetes, and cloud fundamentals
+- 🧮 Practicing **DSA** consistently
+- 📌 Open to internship opportunities in **Software Development / DevOps / Cloud**
 
 ---
 
@@ -26,5 +27,5 @@ I like building things end to end — from clean, responsive frontends to unders
 ### 📫 Find me elsewhere
 
 📧 Email — tanu080405@gmail.com
-💼 LinkedIn — http://www.linkedin.com/in/tanupriyasingh1
+💼 LinkedIn — http://www.linkedin.com/in/tanupriyasingh1 
 🎮 Discord — meinhoontanu
