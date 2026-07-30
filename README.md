@@ -13,7 +13,7 @@ I like building things end to end — from clean, responsive frontends to unders
 
 - 💼 Interning at **Prodesk IT**, working on full stack projects
 - ☁️ Learning **DevOps** — Docker, CI/CD, Kubernetes, and cloud fundamentals
-- 🧮 Practicing **DSA** consistently
+- 🧮 Practicing **DSA** consistently (not really)
 - 📌 Open to internship opportunities in **Software Development / DevOps / Cloud**
 
 ---
